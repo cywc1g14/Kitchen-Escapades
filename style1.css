@@ -1,0 +1,23 @@
+body{
+  background-color: #E9967A ;
+}
+h1{
+          color: #2F4F4F;
+          font-family: "monotype corsiva";
+          text-align: center;
+         }
+         p{
+           font-family: "monotype corsiva";
+           color: #2F4F4F;   
+           text-align: center;
+         }
+         h2{
+           text-align: center;
+           font-family: "monotype corsiva";
+           color: black;
+         }
+         li{
+          text-align: center;
+          font-family: "monotype corsiva";
+          font-style: normal;
+         }
